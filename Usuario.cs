@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace ejercicio002
 {
-    internal class Usuario
+    public class Usuario
     {
         public int Id { get; set; }
         public String Nombre { get; set; } 
